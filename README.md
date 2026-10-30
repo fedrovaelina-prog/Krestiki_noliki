@@ -23,5 +23,6 @@
 
 Когда игра закончилась на выигрыше или ничьей, пользователь может нажать кнопку "Начать заново" и поле полностью очистится.
 <img width="214" height="88" alt="image" src="https://github.com/user-attachments/assets/1be284c3-e46c-4673-a896-1650603705e8" />
+
 <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/62cf3c4b-cb29-4f21-8180-2a7041026e1d" />
 
