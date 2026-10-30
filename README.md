@@ -8,8 +8,11 @@
 
 Когда пользователь нажимает на свободную ячейку, в ней появляется его символ. Снизу меняется символ на другой.
 <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/bde9a22a-c114-4e2d-bec1-ec371608d239" />
+
 Далее следующий игрок нажимает на свободную ячейку и символ опять меняется.
+
 <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/f532e7c4-7bd4-46b9-9e51-3dda92b207b7" />
+
 При нахождении комбинации из одинаковых символом символов, сверху появится сообщение о том, какой символ выйграл.
 
 <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/e9092427-596e-41d1-8d9e-29b1bf39ca4f" />
